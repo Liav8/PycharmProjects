@@ -7,6 +7,7 @@ letters = len(word)
 for i in word:
     line.append("_")
 loses = 8
+print(rnd)
 had = False
 counter = -1
 while loses > 0:
